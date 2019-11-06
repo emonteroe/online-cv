@@ -54,7 +54,7 @@ career-profile:
       Graduated in Telematics Engineering from the Pontifical Catholic University Madre y Maestra (2014). 
       Currently pursuing a master's degree in Computer Science in the area of Computer Networks from the Federal University 
       of Pará (UFPA) and a member of the Computer Network Study Group at UFPA, researching Unmanned Aerial Vehicles (UAV) 
-      as a base station for mobile networks (LTE). -5G). 
+      as a base station for mobile networks (LTE-5G). 
       Has experience in Telematics Engineering, focusing on Telecommunications. He also has experience leading mobile 
       Internet projects as an Sr. SVA (Value Added Services) analyst at Claro Dominicana. 
       Areas of interest are Smart Cities, Internet of Things and FANET.
@@ -84,35 +84,23 @@ education:
 
 
 experiences:
-    - role: Sr. Analyst
+    - role: Senior Analyst
       time: 2013 - 2018
       company: Claro, Santo Domingo, Dominican Republic.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+       - Responsible for the design, management and improvement of mobile data products for postpaid customers.  
+       - Responsible for the implementation of business customer mobile data management platform.
+       - Mobile data project leader.
+       - Registration and monitoring of metrics, identification of improvements, implementation of re-engineering 
+         and satisfaction of internal and external customers. 
+       - Process survey and creation of manuals and instructions for the mobile data products.
+          
 
     - role: Data Mobile Technical Support
       time: 2009 - 2013
       company: Claro, Santo Domingo, Dominican Republic.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Describe your role here 
 
 
  
