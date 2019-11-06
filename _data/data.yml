@@ -64,22 +64,14 @@ education:
     - degree: MSc in Computer Science
       university: Federal University of Pará
       time: 2018 - present
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      #details: |
+       # Describe your study here.
 
     - degree: B.Eng. in Telematics
       university: Pontificia Universidad Católica Madre y Maestra
       time: 2006 - 2014
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      #details: |
+       # Describe your study here
 
 
 
@@ -88,19 +80,19 @@ experiences:
       time: 2013 - 2018
       company: Claro, Santo Domingo, Dominican Republic.
       details: |
-       - Responsible for the design, management and improvement of mobile data products for postpaid customers.  
-       - Responsible for the implementation of business customer mobile data management platform.
+       - Responsible for the design, management and improvement of data mobile products for postpaid customers.  
+       - Responsible for the implementation of enterprise customer data mobile management platform.
        - Mobile data project leader.
        - Registration and monitoring of metrics, identification of improvements, implementation of re-engineering 
          and satisfaction of internal and external customers. 
-       - Process survey and creation of manuals and instructions for the mobile data products.
+       - Process survey and creation of manuals and instructions for the data mobile products.
           
 
-    - role: Data Mobile Technical Support
+    - role: Mobile Technical Support
       time: 2009 - 2013
       company: Claro, Santo Domingo, Dominican Republic.
       details: |
-        Describe your role here 
+        - Data mobile technical support for enterprise customers.   
 
 
  
