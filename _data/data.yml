@@ -133,8 +133,8 @@ skills:
       - name: C++
         level: 85%
 
-      - name: HTML5 & CSS
-        level: 75%
+     # - name: HTML5 & CSS
+      #  level: 75%
         
       - name: Routing & Switching
         level: 90%
