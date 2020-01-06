@@ -21,16 +21,10 @@
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
-    <div class="publication-doi">{<a href="{{ publication.link }}">{{ publication.item }}</a>}</div>
-    <!--<div class="publication-doi">{{ publication.link }}</div>-->
+    <div class="publication-doi">{{ publication.link }}</div>
   </div><!--//item-->
   {% endfor %}
-  
-  {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
-      {% else %}
-      <li>{{ interest.item }}</li>
-      {% endif %}
+
 
 </section><!--//section-->
 {% endif %}
