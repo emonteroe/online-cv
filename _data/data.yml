@@ -123,7 +123,7 @@ publications:
       #bibendum fringilla a eu lectus.
 
     papers:
-      - title: <a href="Clustering Users for the Deployment of UAV as Base Station to Improve the Quality of the Data">{{ https://doi.org/10.1109/LATINCOM48065.2019.8937893 }}</a>
+      - title: <a href="https://doi.org/10.1109/LATINCOM48065.2019.8937893">{{ Clustering Users for the Deployment of UAV as Base Station to Improve the Quality of the Data }}</a>
         authors: Emanuel Montero, Denis Rosário & Aldri Santos.
         conference: 2019 IEEE Latin-American Conference on Communications (LATINCOM)
 
