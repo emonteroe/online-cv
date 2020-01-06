@@ -45,7 +45,7 @@ sidebar:
         link:
 
       - item: Photography
-        link:
+        link: doi.org/10.1109/LATINCOM48065.2019.8937893
 
 
 career-profile:
@@ -76,6 +76,12 @@ education:
 
 
 experiences:
+    - role: Scientific Researcher
+      time: 2018 - present
+      company: Grupo de Estudo em Redes de Computadores e Multimedia (Gercom)
+      details: |
+        - Research area: Unmanned Aerial Vehicles (UAV) as a base station for mobile networks (LTE-5G). 
+    
     - role: Senior Analyst
       time: 2013 - 2018
       company: Claro, Santo Domingo, Dominican Republic.
@@ -120,7 +126,7 @@ publications:
       - title: Clustering Users for the Deployment of UAV as Base Station to Improve the Quality of the Data
         authors: Emanuel Montero, Denis Rosário & Aldri Santos.
         conference: 2019 IEEE Latin-American Conference on Communications (LATINCOM)
-        link: doi.org/10.1109/LATINCOM48065.2019.8937893
+        link: https://doi.org/10.1109/LATINCOM48065.2019.8937893
 
 
 
