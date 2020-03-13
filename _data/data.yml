@@ -38,13 +38,13 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Hiking
+      - item: Networking
         link:
 
-      - item: Capoeira
+      - item: Mobile Networks 
         link:
 
-      - item: Photography
+      - item: Devops
         link: 
 
 
@@ -146,7 +146,7 @@ skills:
         level: 90%
         
       - name: Linux
-        level: 85%
+        level: 75%
         
       - name: Windows
         level: 95%
