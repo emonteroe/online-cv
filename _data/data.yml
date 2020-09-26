@@ -80,7 +80,11 @@ experiences:
       time: 2018 - present
       company: Grupo de Estudo em Redes de Computadores e Multimedia (Gercom)
       details: |
-        - Research area: Unmanned Aerial Vehicles (UAV) as a base station for mobile networks (LTE-5G). 
+        - Research area: Unmanned Aerial Vehicles (UAV) as a base station for mobile networks (LTE-5G).
+        - Laboratory responsibilities and projects:
+            - Linux and Windows Server Management.
+            - Network Administration.
+            - \href{http://csbc2019.sbc.org.br/}{CSBC 2019} Gamification Application Support; Docker Containers, SQL, network, and firewall setup.
     
     - role: Senior Analyst
       time: 2013 - 2018
