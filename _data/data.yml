@@ -52,7 +52,7 @@ career-profile:
     title: Career Profile
     summary: |
       Graduated in Telematics Engineering from the Pontifical Catholic University Madre y Maestra (2014). 
-      Obtained a master’s degree in Computer Science in the area of Computer Networks from the Federal University of 
+      Obtained a master’s degree in Computer Science (2020) in the area of Computer Networks from the Federal University of 
       Pará (UFPA) and a former member of the Computer Network Study Group at UFPA, 
       researching Unmanned Aerial Vehicles (UAV) as a base station for mobile networks (LTE-5G). 
       Has experience in Telematics Engineering, focusing on Telecommunications. 
@@ -76,6 +76,41 @@ education:
 
 
 experiences:
+    - role: Technical Support Engineer
+      time: July 2022 - Actual
+      company: Kaleyra
+      details: |
+        -Troubleshooting and resolving production issues.
+        -Supporting and performing application deployments to production environments.
+        -Discover and report application issues to the Development team.
+        -Supporting client's technical questions and issues.
+        -Documenting Level-1 and Level-2 troubleshooting as knowledge base.
+        -Performing data analysis, creating reports and impact analysis for critical issues.
+        -Creating scripts for any repetitive task that requires automation to speed up workflow.
+        -Analyzing network traces, TCP dumps, API calls and SMS encoding, performance related issues.
+        -Good understanding of SMPP, HTTP, SFTP, TCP, and many other protocols.
+        
+        
+    - role: Network Operation Center Analyst
+      time: May 2021 - July 2022
+      company: Kaleyra
+      details: |
+        -Perform technical analysis of system issues and outages as they occur across customer enterprise networks.
+        -Conduct research to troubleshoot and resolve the issue or, depending upon complexity, escalates the issue to higher-level systems administrators and network engineers.
+        -Monitor SMS/MMS plaftorm Unix/Linux Systems.
+        -Reporting using Unix/Linux, Propietary GUIs and MySQL.
+        -Prioritize remediation of issues in a 24 x 7 environment with critical uptime requirements.
+        -Provide Tech Support by answering calls/emails from corporate customers.
+        -Review network logs to monitor the overall network.
+        
+    - role: Information Technology Support Analyst
+      time: Dec 2020 - May 2021
+      company: Trueshore
+      details: |
+        - Planning and undertaking scheduled maintenance upgrades.
+        - Evaluating IT processes and developing scripts for automation.
+        - Troubleshooting hardware, software and network issues.
+    
     - role: Scientific Researcher
       time: 2018 - 2020
       company: Grupo de Estudo em Redes de Computadores e Multimedia (Gercom)
@@ -130,6 +165,9 @@ publications:
       - title: <a href="https://doi.org/10.1109/LATINCOM48065.2019.8937893"> Clustering Users for the Deployment of UAV as Base Station to Improve the Quality of the Data</a>
         authors: Emanuel Montero, Denis Rosário & Aldri Santos.
         conference: 2019 IEEE Latin-American Conference on Communications (LATINCOM)
+      - title: <a href="https://doi.org/10.1016/j.comnet.2021.108486"> Proactive radio- and QoS-aware UAV as BS deployment to improve cellular operations</a>
+        authors: Emanuel Montero, Carlos Rocha, Helder Oliveira, Eduardo Cerqueira, Paulo Mendes, Aldri Santos & Denis Rosário.
+        conference: 2021 Computer Networks Journal
 
 
 
