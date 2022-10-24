@@ -80,28 +80,28 @@ experiences:
       time: July 2022 - Actual
       company: Kaleyra
       details: |
-        -Troubleshooting and resolving production issues.
-        -Supporting and performing application deployments to production environments.
-        -Discover and report application issues to the Development team.
-        -Supporting client's technical questions and issues.
-        -Documenting Level-1 and Level-2 troubleshooting as knowledge base.
-        -Performing data analysis, creating reports and impact analysis for critical issues.
-        -Creating scripts for any repetitive task that requires automation to speed up workflow.
-        -Analyzing network traces, TCP dumps, API calls and SMS encoding, performance related issues.
-        -Good understanding of SMPP, HTTP, SFTP, TCP, and many other protocols.
+        - Troubleshooting and resolving production issues.
+        - Supporting and performing application deployments to production environments.
+        - Discover and report application issues to the Development team.
+        - Supporting client's technical questions and issues.
+        - Documenting Level-1 and Level-2 troubleshooting as knowledge base.
+        - Performing data analysis, creating reports and impact analysis for critical issues.
+        - Creating scripts for any repetitive task that requires automation to speed up workflow.
+        - Analyzing network traces, TCP dumps, API calls and SMS encoding, performance related issues.
+        - Good understanding of SMPP, HTTP, SFTP, TCP, and many other protocols.
         
         
     - role: Network Operation Center Analyst
       time: May 2021 - July 2022
       company: Kaleyra
       details: |
-        -Perform technical analysis of system issues and outages as they occur across customer enterprise networks.
-        -Conduct research to troubleshoot and resolve the issue or, depending upon complexity, escalates the issue to higher-level systems administrators and network engineers.
-        -Monitor SMS/MMS plaftorm Unix/Linux Systems.
-        -Reporting using Unix/Linux, Propietary GUIs and MySQL.
-        -Prioritize remediation of issues in a 24 x 7 environment with critical uptime requirements.
-        -Provide Tech Support by answering calls/emails from corporate customers.
-        -Review network logs to monitor the overall network.
+        - Perform technical analysis of system issues and outages as they occur across customer enterprise networks.
+        - Conduct research to troubleshoot and resolve the issue or, depending upon complexity, escalates the issue to higher-level systems administrators and network engineers.
+        - Monitor SMS/MMS plaftorm Unix/Linux Systems.
+        - Reporting using Unix/Linux, Propietary GUIs and MySQL.
+        - Prioritize remediation of issues in a 24 x 7 environment with critical uptime requirements.
+        - Provide Tech Support by answering calls/emails from corporate customers.
+        - Review network logs to monitor the overall network.
         
     - role: Information Technology Support Analyst
       time: Dec 2020 - May 2021
